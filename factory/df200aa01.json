@@ -1,0 +1,9 @@
+{
+	"name": "df200aa01",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34f8bd17-ccda-41f5-8428-90bc1c55d46d",
+		"tenantId": "23464090-8590-41a8-a3ed-c01f11d6b651"
+	}
+}
