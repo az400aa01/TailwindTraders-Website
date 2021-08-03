@@ -82,7 +82,9 @@
 									"referenceName": "bananas",
 									"type": "DatasetReference"
 								},
-								"fieldList": [],
+								"fieldList": [
+									"itemType"
+								],
 								"storeSettings": {
 									"type": "AzureBlobStorageReadSettings",
 									"enablePartitionDiscovery": false
@@ -111,7 +113,9 @@
 									"referenceName": "apples",
 									"type": "DatasetReference"
 								},
-								"fieldList": [],
+								"fieldList": [
+									"itemName"
+								],
 								"storeSettings": {
 									"type": "AzureBlobStorageReadSettings",
 									"enablePartitionDiscovery": false
